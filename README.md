@@ -1,2 +1,2 @@
 # GeocoderLotes
-Ejempo de geocodificación consumiendo CDAUWS
+Ejemplo de geocodificación consumiendo CDAUWS
