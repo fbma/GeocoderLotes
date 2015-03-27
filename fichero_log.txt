@@ -1,0 +1,294 @@
+************************************************************************************************************
+Direccion de entrada a buscar: CL,ESTRELLA  AGENA,7
+Direccion de entrada normalizada: CALLE ESTRELLA AGENA , 7
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=237127.88008064445,4145832.074017186&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: UR,AUGUSTA RESIDENCIAL,7
+Direccion de entrada normalizada: URBANIZACION AUGUSTA RESIDENCIAL , 7
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=236531.29918468528,4139676.73685888&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,PILAR DE GRACIA,6
+Direccion de entrada normalizada: CALLE PILAR GRACIA , 6
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=234192.4728005284,4141389.3069472807&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,FIRMAMENTO,20
+Direccion de entrada normalizada: CALLE FIRMAMENTO , 20
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=240127.65886032488,4144410.7378268167&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: AV,GRAHAM BELL,1
+Direccion de entrada normalizada: AVENIDA GRAHAM BELL , 1
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=233548.212104893,4140847.1985509526&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,ANTONIO SUSILLO,46
+Direccion de entrada normalizada: CALLE ANTONIO SUSILLO , 46
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=235066.76039460645,4143544.3522326816&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,ARROYO,55
+Direccion de entrada normalizada: CALLE ARROYO , 55
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=236175.02598709892,4142955.6774366684&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,AV CIENCIAS ED.PARQUE REY 10 6,
+Direccion de entrada normalizada: AVENIDA CIENCIAS EDIFICIO PARQUE REY , 10
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=241524.11655086486,4142435.793140191&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,GORRION,2
+Direccion de entrada normalizada: CALLE GORRION , 2
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=238109.28657399624,4141902.537143803&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,JUSTINO MATUTE,19
+Direccion de entrada normalizada: CALLE JUSTINO MATUTE , 19
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=233906.99450246245,4141415.6166471005&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,ALFONSO XII,60
+Direccion de entrada normalizada: CALLE ALFONSO XII , 60
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=234354.91879942856,4142730.8899381924&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,THAILANDIA,2
+Direccion de entrada normalizada: CALLE THAILANDIA , 2
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=241738.40514941374,4143777.5932311043&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,LIRA,5
+Direccion de entrada normalizada: CALLE LIRA , 5
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=235657.6327906038,4143173.228235197&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: AV,PEDRO GUAL VILLALBI,2
+Direccion de entrada normalizada: AVENIDA PEDRO GUAL VILLALBI , 2
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=238701.76416998357,4143081.5575358164&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,SANTA CLARA,16
+Direccion de entrada normalizada: CALLE SANTA CLARA , 16
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=234743.5692967953,4143366.426033888&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,PASCUAL GAYANGO,41
+Direccion de entrada normalizada: CALLE PASCUAL GAYANGO , 41
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=234308.77749974077,4143048.0886360435&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,AGUILA BLANCA,3
+Direccion de entrada normalizada: CALLE AGUILA BLANCA , 3
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=238586.95987076132,4139779.5309581845&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,SANTA MARINA,12
+Direccion de entrada normalizada: CALLE SANTA MARINA , 12
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=235523.4018915131,4143307.3003342887&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: AV,DE LAS CIENCIAS,4
+Direccion de entrada normalizada: AVENIDA CIENCIAS , 4
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=241528.2717508365,4142305.648941073&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: AV,SAN JUAN DE LA SALLE-PARQ.TORR,3
+Direccion de entrada normalizada: AVENIDA SAN JUAN SALLE PARQ TORR , 3
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=236776.79338302277,4144051.24132925&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,JOSE LAGUILLO,23
+Direccion de entrada normalizada: CALLE JOSE LAGUILLO , 23
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=236088.15878768713,4142817.5299376063&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,DON ALONSO EL SABIO,4
+Direccion de entrada normalizada: CALLE DON ALONSO SABIO , 4
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=235125.18779421016,4142472.1159399454&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: ZZ,NUCLEO RESIDENCIAL SAN DIEGO,19
+Direccion de entrada normalizada:  ZZ , 19
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=238089.49827413098,4142943.549136752&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: ,VIRGEN DE LUJAN 48 C,
+Direccion de entrada normalizada:  VIRGEN LUJAN , 48
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=234155.7478007776,4140706.631951905&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,JUAN RAMON JIMENEZ,3
+Direccion de entrada normalizada: CALLE JUAN RAMON JIMENEZ , 3
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=234464.8049986838,4140739.331551682&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,JUAN DIAZ DE SOLIS,2
+Direccion de entrada normalizada: CALLE JUAN DIAZ SOLIS , 2
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=233648.98590420996,4141147.8970489153&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,ESPERANZA TRINIDAD,2
+Direccion de entrada normalizada: CALLE ESPERANZA TRINIDAD , 2
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=236313.1649861636,4142626.559038899&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,LEON XIII,78
+Direccion de entrada normalizada: CALLE LEON XIII , 78
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=235989.1148883581,4144061.316129181&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,PAQUIRO,3
+Direccion de entrada normalizada: CALLE PAQUIRO , 3
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=237965.10437497316,4143400.9333336544&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,SAN LUIS,14
+Direccion de entrada normalizada: CALLE SAN LUIS , 14
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=235518.5707915459,4143094.552935731&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,COMPRENSION,49
+Direccion de entrada normalizada: CALLE COMPRENSION , 49
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=240600.84145711953,4140098.2250560247&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,PELAY CORREA,
+Direccion de entrada normalizada: CALLE PELAY CORREA , 
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=234325.64979962638,4141524.972946361&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: GR,ALMENAS (LAS),
+Direccion de entrada normalizada: GRUPO ALMENAS , 
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=237474.72117829486,4145066.318322374&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: AV,DEPORTE (EL),1
+Direccion de entrada normalizada: AVENIDA DEPORTE , 1
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=241609.1807502884,4141806.865944451&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,LAVANDERAS,1
+Direccion de entrada normalizada: CALLE LAVANDERAS , 1
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=237538.64907786233,4145793.954917445&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,MANUEL ARELLANO,22
+Direccion de entrada normalizada: CALLE MANUEL ARELLANO , 22
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=233521.9410050704,4141989.91544321&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,ALFAFAR,7
+Direccion de entrada normalizada: CALLE ALFAFAR , 7
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=240739.4037561805,4144605.2683254965&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,AJUSTADORES,4
+Direccion de entrada normalizada: CALLE AJUSTADORES , 4
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=237876.96377557042,4145804.7796173715&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,FABIE,20
+Direccion de entrada normalizada: CALLE FABIE , 20
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=234129.28410095657,4141715.0427450747&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,CIUDAD DE PATERNA,4
+Direccion de entrada normalizada: CALLE CIUDAD PATERNA , 4
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=240724.40475628214,4144704.815724823&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,TARFIA,7
+Direccion de entrada normalizada: CALLE TARFIA , 7
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=235314.86169292522,4139490.024060146&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,CRUZ DEL SUR,13
+Direccion de entrada normalizada: CALLE CRUZ SUR , 13
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=238011.0300746627,4141497.365046549&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,LA CALESERA,11
+Direccion de entrada normalizada: CALLE CALESERA , 11
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=238991.98916801752,4140847.0085509527&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: PZ,PZA DE LOS LUCEROS 1 PTA 11,1
+Direccion de entrada normalizada: PLAZA LUCEROS , 1
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=240936.2443548477,4144263.65182781&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,HEROES DE TOLEDO,49
+Direccion de entrada normalizada: CALLE HEROES TOLEDO , 49
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=236973.54778169014,4135062.063990137&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,ALCALDE JOSE DE LA BANDERA,5
+Direccion de entrada normalizada: CALLE ALCALDE JOSE BANDERA , 5
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=235836.19578939432,4142099.225942472&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,SAUCO,7
+Direccion de entrada normalizada: CALLE SAUCO , 7
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=239567.16836412143,4144106.1497288775&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,LUIS MONTOTO,125
+Direccion de entrada normalizada: CALLE LUIS MONTOTO , 125
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=237145.0387805277,4142014.2659430457&label=resultado&zoom=14
+************************************************************************************************************
+Direccion de entrada a buscar: CL,PERIODISTA RAMON RESA,13
+Direccion de entrada normalizada: CALLE PERIODISTA RAMON RESA , 13
+------------------------------------------------------------------------------------------------------------------
+Vista de mayor peso:
+http://mapea-sigc.juntadeandalucia.es/Componente/templateMapeaOL.jsp?wmcfile=http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_callejero_25830_no_cache.xml*Callejero,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_satelite_25830_no_cache.xml*Satelite,http://mapea-sigc.juntadeandalucia.es/Componente/mapConfig/context_cdau_hibrido_25830_no_cache.xml*Híbrido&controls=panzoombar,navtoolbar,mouse,layerswitcher&projection=EPSG:25830*m&center=235622.25609084353,4139228.523461915&label=resultado&zoom=14

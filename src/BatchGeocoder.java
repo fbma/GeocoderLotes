@@ -32,7 +32,8 @@ public class BatchGeocoder {
 	
 	static boolean tieneCabecera = false;
 	
-	//static String urlGeocoder = "http://www.juntadeandalucia.es/servicios/mapas/callejero/geocoder/services/callejero?wsdl";
+	// Los siguientes parametros lo lee del fichero de propiedades, estos valores solo se usan en caso
+	// de que no esten correctamente inicializados
 	static String urlGeocoder = "http://www.callejerodeandalucia.es/ws/services/InterfazCDAUWS?wsdl";
 	static String projection = "EPSG:25830";
 	static String units = "m";
