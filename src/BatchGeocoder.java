@@ -218,7 +218,7 @@ public class BatchGeocoder {
 					{	
 						String[] fieldsStr = direcciones[i].split(separador);
 						int length = fieldsStr.length;
-						//escribimos la l�nea de la cabecera
+						//escribimos la linea de la cabecera
 						String line = "";
 						for(int z = 0; z < length; z++){
 							line += (z + ";");
@@ -256,7 +256,7 @@ public class BatchGeocoder {
 					try {
 					String[] fieldsStr = direcciones[i].split(separador);
 
-					// Normalizamos la direcci�n, ya que inicialmente en la
+					// Normalizamos la direccion, ya que inicialmente en la
 					// entrada de la misma se encuentra
 					// el tipo de vias no normalizado, ademas de no seguir un
 					// patron especifico las mismas
@@ -327,12 +327,7 @@ public class BatchGeocoder {
 							// maxima puntuacion
 							resultMatch = 1;
 						} else {
-							// Si no es exacto, calculamos el peso
-							/*resultMatch = LetterPairSimilarity.calculaParecido(
-									nombreVia, result[0].getStreetName(),
-									tipoVia, result[0].getStreetType(),
-									numeroVia,
-									result[0].getStreetNumber() + "", writer3);*/
+							// Se obtiene el peso de la respuesta
 							resultMatch = ((GeocoderResult)result[0]).getSimilarity();
 						}
 
@@ -344,14 +339,7 @@ public class BatchGeocoder {
 						// o con el parcial con mayor peso en caso contrario
 						double maxSimilarity = -1;
 						for (GeocoderResult r : result) {
-
-							/*double similarity = LetterPairSimilarity
-									.calculaParecido(nombreVia, r
-											.getStreetName(), tipoVia,
-											r.getStreetType(),
-											numeroVia, r
-													.getStreetNumber()
-													+ "", writer3);*/
+							// Se obtiene el peso de la respuesta
 							double similarity = ((GeocoderResult)result[0]).getSimilarity();
 
 							if (r.getResultType().equalsIgnoreCase("exact")) {
